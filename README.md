@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is built with Laravel and uses Vite for asset compilation. Follow the steps below to get the project up and running.
+This project is built with Laravel LiveWire and uses Vite for asset compilation. Follow the steps below to get the project up and running.
 
 ## Prerequisites
 
